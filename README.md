@@ -1,2 +1,3 @@
 # Mans pirmais GIT projekts
-Otrais ieraksts
+Otrais ieraksts 
+gkiukuk8ukg8
